@@ -108,16 +108,16 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">2</span>
+                          <span className="description">Experiance years</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">2</span>
+                          <span className="description">courses</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">2</span>
+                          <span className="description">Languages</span>
                         </div>
                       </div>
                     </Col>
@@ -144,11 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        I love life and stick to it. I always like to develop my personal, practical and technical skills in all fields. I have great ambition. I want to employ my skills in the right place and in the right way. I have a great passion for work and accomplish what is required, which helps me in the growth and development of the place in which I work.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
