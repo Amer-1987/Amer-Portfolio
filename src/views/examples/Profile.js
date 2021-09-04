@@ -137,7 +137,7 @@ class Profile extends React.Component {
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      Albalqa Applied University - Luminus Technical University College - Isrs University
+                      Albalqa Applied University - Luminus Technical University College - Isra University
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
